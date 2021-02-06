@@ -1,0 +1,33 @@
+{
+  "type": "GenericCrafter",
+  "name": "Экстрактор параши",
+  "description": "Производит парашу из гавна.",
+  "health": 600,
+  "size": 3,
+  "requirements": [
+    { "item": "lead", "amount": 100}
+    { "item": "scrap", "amount": 175}
+  ],
+  "research": "kiln",
+  "hasPower": true,
+  "hasItems": true,
+  "hasLiquids": true,
+  "isOutputLiquids": true,
+  "craftTime": 4,
+  "consumes": {
+    "power": 10,
+    "items": {
+      "items": [
+        { "item": "copper", "amount": 2}
+        { "item": "lead", "amount": 2}
+        { "item": "scrap", "amount": 3}
+      ]
+    }
+  },
+  "updateEffect": "smeltsmoke",
+  "category": "crafting",
+  "idleSoundVolume": 0.5,
+  "itemCapacity": 10,
+  "outputItem": { "item": "parasha", "amount": 4}
+  "outputLiquid": { "liquid": "parasha-water", "amount": 12}
+}

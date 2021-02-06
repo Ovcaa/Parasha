@@ -1,0 +1,10 @@
+{
+ "name": "parasha",
+ "displayName": "[red]Parasha [blue]Mega",
+ "author": "Ovca",
+ "description": "Самый парашный мод на всём земном шаре.",
+ "version": "ersion сасихуй",
+
+ "minGameVersion": "105",
+ "dependencies": []
+}

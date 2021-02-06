@@ -1,0 +1,11 @@
+{
+ "type": "liquid",
+ "name": "Парашная Вода",
+ "description": "Появляется от произведение парашы. Как странно, лучше воды, но хуже криогена",
+ "color": "828282",
+ "flammability": 0f,
+ "temperature": 0.3f,
+ "heatCapacity": 0.7f,
+ "viscosity": 0.2f,
+ "explosiveness": 0f
+}

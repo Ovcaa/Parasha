@@ -1,0 +1,12 @@
+{
+ "name": "Большая парашная стена",
+ "description": "Большая стена из парашы. Чуть слабее титана.",
+ "type": "Wall",
+ "health": 1560,
+ "size": 2,
+ "requirements": [
+  { "item": "parasha", "amount": 24 }
+ ],
+ "category": "defense",
+ "research": "parasha-wall"
+}
